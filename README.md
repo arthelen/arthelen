@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arthelen
-- 👀 I’m interested in UI design
+- 👋 Hi, I’m Allison :D
+- 👀 I’m interested in UI design and creating projects that are visually appealing to users!
 <!--- - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ---!>
